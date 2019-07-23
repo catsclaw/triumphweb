@@ -6,12 +6,12 @@
 -->
 <html>
   <head>
-    <title>Massively by HTML5 UP</title>
+    <title>TRIUMPH</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
-    {{ $noscriptStyle := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+    {{ $noscriptStyle := resources.Get "sass/noscript.scss" | toCSS | minify | fingerprint }}
     <noscript><link rel="stylesheet" href="{{ $noscriptStyle.Permalink }}" /></noscript>
   </head>
   <body class="is-preload">
