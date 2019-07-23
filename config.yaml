@@ -1,0 +1,11 @@
+baseURL: http://www.triumphlarp.org/
+title: TRIUMPH
+defaultContentLanguage: en
+languages:
+  en:
+    lang: en
+    languageName: English
+    weight: 1
+
+MetaDataFormat: yaml
+theme: triumph
