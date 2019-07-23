@@ -14,4 +14,4 @@
     {{ $noscriptStyle := resources.Get "sass/noscript.scss" | toCSS | minify | fingerprint }}
     <noscript><link rel="stylesheet" href="{{ $noscriptStyle.Permalink }}" /></noscript>
   </head>
-  <body class="is-preload">
+  <body lang="en-us" class="is-preload">
