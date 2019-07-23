@@ -9,7 +9,9 @@
     <title>Massively by HTML5 UP</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link rel="stylesheet" href="static/css/main.css" />
-    <noscript><link rel="stylesheet" href="static/css/noscript.css" /></noscript>
+    {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    {{ $noscriptStyle := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+    <noscript><link rel="stylesheet" href="{{ $noscriptStyle.Permalink }}" /></noscript>
   </head>
   <body class="is-preload">
