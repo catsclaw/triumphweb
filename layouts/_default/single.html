@@ -1,23 +1,13 @@
 {{ partial "header.html" }}
 
-{{ partial "head.html" }}
+<!-- Post -->
+<section class="post">
+  <header class="major">
+    <span class="date">{{ .PublishDate.Format "January 2, 2006" }}</span>
+    <h1>{{ .Title }}</h1>
+  </header>
 
-<div id="main">
-
-    <!-- Post -->
-      <section class="post">
-        <header class="major">
-          <span class="date">April 25, 2017</span>
-          <h1>{{ .Title }}</h1>
-        </header>
-
-        {{ .Content }}
-      </section>
-
-  </div>
-
-  {{ partial "foot.html" }}
-
-</div>
+  {{ .Content }}
+</section>
 
 {{ partial "footer.html" }}
