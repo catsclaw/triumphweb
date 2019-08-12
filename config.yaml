@@ -8,3 +8,12 @@ languages:
     weight: 1
 
 MetaDataFormat: yaml
+
+menu:
+  main:
+  - name: Home
+    url: index.html
+    weight: 1
+  - name: FAQ
+    url: faq/
+    weight: 2
