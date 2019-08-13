@@ -1,8 +1,9 @@
 ---
-title: "How does combat work?"
+title: How does combat work?
 date: 2019-07-26T08:40:11+02:00
 draft: false
 navSection: faq
+faqSection: Combat
 ---
 
 As *Triumph* is built around a winner-takes-all fight to the death, there's going to be conflict between players. We have a number of design goals for a combat system.

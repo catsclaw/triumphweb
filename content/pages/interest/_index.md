@@ -1,5 +1,5 @@
 ---
-title: "Interest"
+title: Interest
 date: 2019-07-23T19:22:06+02:00
 draft: false
 navSection: home

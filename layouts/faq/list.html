@@ -3,9 +3,22 @@
 <!-- Post -->
 <section class="post">
   <header class="major">
-    <span class="date">April 25, 2017</span>
-    <h1>FAQ LIST</h1>
+    <h1>{{ .Title }}</h1>
   </header>
+
+  {{ .Content }}
+
+  {{ range .Pages.GroupByParam "faqSection" }}
+  <h2>{{ .Key }}</h2>
+  <ul>
+    {{ range .Pages }}
+      <li>
+          <a href="{{.Permalink}}">{{.Title}}</a>
+      </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
 </section>
 
 {{ partial "footer.html" }}
