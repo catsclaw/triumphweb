@@ -12,8 +12,8 @@ MetaDataFormat: yaml
 menu:
   main:
   - name: Home
-    url: index.html
+    url: /index.html
     weight: 1
   - name: FAQ
-    url: faq/
+    url: /faq/
     weight: 2
