@@ -14,6 +14,9 @@ menu:
   - name: Home
     url: /index.html
     weight: 1
+  - name: Practical
+    url: /practical/
+    weight: 2
   - name: FAQ
     url: /faq/
-    weight: 2
+    weight: 3

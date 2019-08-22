@@ -1,11 +1,30 @@
 {{ partial "header.html" . }}
 
-<!-- Post -->
-<section class="post">
+<article class="post featured">
   <header class="major">
-    <span class="date">April 25, 2017</span>
-    <h1>LIST</h1>
+    <h2>{{ .Title }}</h2>
   </header>
+  {{ .Content }}
+</article>
+
+<section class="posts">
+  {{ range .Pages }}
+  <article>
+    {{ $link := .RelPermalink }}
+    <header>
+      <span class="date">{{ .PublishDate.Format "January 2, 2006" }}</span>
+      <h2><a href="{{ $link }}">{{ .Title }}</a></h2>
+    </header>
+
+    {{ range first 1 (.Resources.ByType "image") }}
+      <a href="{{ $link }}" class="image fit"><img src="{{ (.Fill "508x310").RelPermalink }}" alt=""></a>
+    {{ end }}
+    <p>{{ .Summary }}</p>
+    <ul class="actions special">
+      <li><a href="{{ $link }}" class="button">Read all</a></li>
+    </ul>
+  </article>
+  {{ end }}
 </section>
 
 {{ partial "footer.html" }}
