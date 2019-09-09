@@ -17,6 +17,9 @@ menu:
   - name: Practical
     url: /practical/
     weight: 2
+  - name: About
+    url: /about/
+    weight: 3
   - name: FAQ
     url: /faq/
-    weight: 3
+    weight: 4

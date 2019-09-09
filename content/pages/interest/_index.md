@@ -5,15 +5,7 @@ draft: false
 navSection: home
 ---
 
-*Greetings, Citizens!*
-
-*Constance Trifle here, bringing you exciting news! I know it’s been a long year, you’ve been tired, you’ve been overworked, you’ve been waiting patiently for that little ray of sunshine to come back. I’m so very pleased to announce your wait is over! The Triumphal Games are returning for their 40th anniversary!*
-
-*You’ve been watching your Triumphs be selected throughout our great nation, and right now they are making their way the Eternal City to be interviewed, to be plumped and pampered, and most importantly to be trained for their inspiring, heartbreaking roles in our annual drama. We will be there every step of the way with them, cheering for their success, thrilling in their conquest, and ultimately mourning their sacrifice, all but one. Their brave loss reminds us, as a nation, year after year, of just what we have at stake.*
-
-*And that’s all coming up, so very, very soon! Do join us, won’t you?*
-
-<hr>
+{{< trailer "dQw4w9WgXcQ" >}}
 
 Triumph is a larp inspired by *The Hunger Games*. Roughly 65 players will arrive at the capital. 24 will be Triumphs, to train and be shown off to the nation. 12 will be their mentors, tasked with guiding them through the politics. The remainder will be citizens of the capital, stylists and media representatives and operators with their own plans and agendas.
 

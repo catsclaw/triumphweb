@@ -11,9 +11,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     {{ $noscriptStyle := resources.Get "sass/noscript.scss" | toCSS | minify | fingerprint }}
-    <noscript><link rel="stylesheet" href="{{ $noscriptStyle.Permalink }}" /></noscript>
+    <noscript><link rel="stylesheet" href="{{ $noscriptStyle.RelPermalink }}" /></noscript>
   </head>
   <body class="is-preload">
 

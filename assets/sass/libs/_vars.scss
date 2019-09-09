@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Title Font';
-  src: url('../static/webfonts/title.woff2') format('woff2'),
-       url('../static/webfonts/title.woff') format('woff');
+  src: url('/static/webfonts/title.woff2') format('woff2'),
+       url('/static/webfonts/title.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
