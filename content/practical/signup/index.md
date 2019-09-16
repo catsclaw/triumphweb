@@ -3,14 +3,17 @@ title: Sign Up
 date: 2019-08-22T08:40:11+02:00
 draft: false
 navSection: practical
+weight: 2
 ---
+
+{{<signupbutton>}}
 
 Sign up for Triumph, running Nov 19th-22nd, 2020 will open on Monday, Oct
 14th, 2019 at noon CEST and remain open for one week, until Monday, Oct 21st,
-at noon CEST. It doesn’t matter when you sign up during that period; if there
-are more signups than spots, there will be a random lottery to determine who
-gets a spot. By signing up, you are agreeing to purchase a ticket, if one is
-available for you.
+at noon CEST. <!--more--> It doesn’t matter when you sign up during that
+period; if there are more signups than spots, there will be a random lottery
+to determine who gets a spot. By signing up, you are agreeing to purchase a
+ticket, if one is available for you.
 
 The full cost of a ticket is 470€. You can either pay the full amount by Nov
 1st, or pay in installments. There is a 25€ administration fee for paying in

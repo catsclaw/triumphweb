@@ -3,6 +3,7 @@ title: Team
 date: 2019-09-08
 draft: false
 navSection: about
+weight: 3
 ---
 
 *Triumph* is being organized by a core team of five designers. You can meet

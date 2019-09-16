@@ -5,6 +5,7 @@
   <header class="major">
     <span class="date">{{ .PublishDate.Format "January 2, 2006" }}</span>
     <h1>{{ .Title }}</h1>
+    {{ if isset .Params "version" }}<p>Version {{ .Params.version }}</p>{{ end }}
   </header>
   {{ range first 1 (.Resources.ByType "image") }}
     <div class="image main">
