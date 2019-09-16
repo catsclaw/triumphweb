@@ -49,7 +49,7 @@ the same thing to happen now. Once again: if in doubt, ask.
 
 ### Tap Out
 
-https://participationsafety.wordpress.com/2016/09/11/toolkit-the-tap-out/
+<a href="https://participationsafety.wordpress.com/2016/09/11/toolkit-the-tap-out/" target="_blank">https://<i></i>participationsafety.wordpress.com/2016/09/11/toolkit-the-tap-out/</a>
 
 This is a non-verbal way of indicating that you are approaching your limit.
 Useful, for example, if someone is looming over you, being too forceful, or
@@ -64,7 +64,7 @@ or "please don’t shout so loud") and this must be respected
 
 ### Look Down
 
-https://participationsafety.wordpress.com/2016/09/18/toolkit-the-see-no-evil-or-lookdown/
+<a href="https://participationsafety.wordpress.com/2016/09/18/toolkit-the-see-no-evil-or-lookdown/" target="_blank">https://<i></i>participationsafety.wordpress.com/2016/09/18/toolkit-the-see-no-evil-or-lookdown/</a>
 
 This allows the player to withdraw from an area or scene. Players may at
 times witness things they find disturbing or suddenly have a need to be
@@ -73,7 +73,7 @@ asked.
 
 ### OK Check In
 
-https://participationsafety.wordpress.com/2016/09/09/toolkit-the-ok-check-in/
+<a href="https://participationsafety.wordpress.com/2016/09/09/toolkit-the-ok-check-in/" target="_blank">https://<i></i>participationsafety.wordpress.com/2016/09/09/toolkit-the-ok-check-in/</a>
 
 If you see a player who looks distressed please check in. To do this without
 breaking immersion we use a hand sign. The person you’re checking responds
@@ -164,5 +164,5 @@ different post game needs, we do encourage participation.
 
 If you want to read more on safety in larp these are good starting points:
 
-* https://nordiclarp.org/tag/safety/
-* https://participationsafety.wordpress.com
+* <a href="https://nordiclarp.org/tag/safety/" target="_blank">https://<i></i>nordiclarp.org/tag/safety/</a>
+* <a href="https://participationsafety.wordpress.com" target="_blank">https://<i></i>participationsafety.wordpress.com</a>
