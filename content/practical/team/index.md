@@ -47,7 +47,7 @@ concerns regarding the game, she’s the one to talk to first.
 
 ## Marko Zadro
 
-Born and raised in Croatia, Marco is a local larper and very active one on
+Born and raised in Croatia, Marko is a local larper and very active one on
 both the Croatian and international larping scene. He is a part of the Cygnus
 Association collective, an NGO which, among many other things, makes larp
 projects and runs them in the region. Although he’s been larping for 8 years,
