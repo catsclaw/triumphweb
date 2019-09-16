@@ -1,6 +1,6 @@
 ---
 title: Sign Up
-date: 2019-08-22T08:40:11+02:00
+date: 2019-08-22
 draft: false
 navSection: practical
 weight: 2
@@ -15,9 +15,18 @@ period; if there are more signups than spots, there will be a random lottery
 to determine who gets a spot. By signing up, you are agreeing to purchase a
 ticket, if one is available for you.
 
+At the moment, we are planning for a single run from Nov 19th-22nd, 2020. If
+there is sufficient interest, we will have a second run on Nov 26th-29th,
+2020. You may sign up for a single run (with the proviso that we are not
+guaranteeing that the second run will happen), or indicate that you are able
+to play either run. If you sign up for both runs, you may be able to buy
+tickets for both runs if these are available. We have a strong preference for
+a single full run over two half-full runs; the second run will only occur if
+we feel confident we can fill both of them.
+
 The full cost of a ticket is 470€. You can either pay the full amount by Nov
 1st, or pay in installments. There is a 25€ administration fee for paying in
-installments. The first payment of 100€ is due by Nov 1st, with a second
+installments. The first payment of 100€ is due by Nov 8th, with a second
 payment of 150€ due on Feb 1st and the remainder of 245€ due by Jun 1st.
 Payment will be handled by a money transfer to our banking account. We will
 provide our IBAN number. If this represents an issue for you, you may contact
@@ -51,7 +60,7 @@ non-local. Local tickets are reserved for Croatian residents, while non-local
 tickets are for everyone else. The cost of a sponsored ticket is 270€. As with
 the regular tickets, you can either pay the full amount immediately by Nov
 1st, or pay in installments with a 25€ administrative fee. The first payment
-of 50€ is due by Nov 1st, with a second payment of 75€ due on Feb 1st and the
+of 50€ is due by Nov 8th, with a second payment of 75€ due on Feb 1st and the
 remainder of 170€ due by Jun 1st.
 
 We will start with a pool of 4 sponsored tickets, divided equally between
@@ -89,17 +98,6 @@ And if you are not signing up, you can always email
 [info@triumphlarp.org](mailto:info@triumphlarp.org) with any safety concerns,
 and we will look into them.
 
-## Additional Runs
-
-This game will run Nov 19th-22nd, 2020. If there is sufficient interest, we
-will have a second run on Nov 26th-29th, 2020. You may sign up for a single
-run (with the proviso that we are not guaranteeing that the second run will
-happen), or indicate that you are able to play either run. If you sign up for
-both runs, you may be able to buy tickets for both runs if these are
-available.
-
-Again, we are strongly preferencing a full run from Nov 19th-22nd.
-
 ## Lottery Procedure
 
 If we need to do a lottery, we will randomize all those who signed up for
@@ -109,7 +107,7 @@ one at a time from the regular and elite pool, with every three elite tickets
 being chosen adding an additional sponsored ticket spot. Once we have selected
 all the regular tickets, we will then fill the sponsored ticket spots.
 
-We will indicate whether you have gotten a space by Oct 25th.
+We will indicate whether you have gotten a space by Nov 1st.
 
 ## Refund Policy
 
