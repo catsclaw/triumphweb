@@ -1,28 +1,33 @@
 ---
 title: Interest
-date: 2019-07-23T19:22:06+02:00
+date: 2019-09-16
 draft: false
 navSection: home
 ---
 
-{{< trailer "dQw4w9WgXcQ" >}}
+<!-- {{< trailer "dQw4w9WgXcQ" >}} -->
 
-Triumph is a larp inspired by *The Hunger Games*. Roughly 65 players will arrive at the capital. 24 will be Triumphs, to train and be shown off to the nation. 12 will be their mentors, tasked with guiding them through the politics. The remainder will be citizens of the capital, stylists and media representatives and operators with their own plans and agendas.
+{{< signupbutton >}}
 
-The larp will be played over three days. The first day will be the arrival of the Triumphs at the capital. The second will be training and politicking. The final day will be the games themselves—Triumphs will be taken to an arena where they will fight to the death, with everyone else watching and attempting to influence the outcome.
+Triumph is a larp inspired by *The Hunger Games*. 65 players will be arriving
+in The Eternal City. 24 will be Triumphs, to train and be shown off to the
+Imperium. 12 will be their mentors, tasked with guiding them through the
+politics of the capital. The remainder will be Citizens of the capital,
+stylists and media representatives and operators with their own plans and
+agendas.
 
-This is a rules-light game focusing on the emotional journey of these characters, not the mechanics of winning and losing. There will be no boffer weapons or airsoft guns. Combat will be handled narratively, with some random elements to determine the results. All players, regardless of physical ability, will be able to participate fully as characters in the Games.
+The larp will be played over three days. The first day will be the arrival of
+the Triumphs at the capital. The second will be training and politicking. The
+final day will be the games themselves—the Triumphs will be taken to an arena
+where they will fight to the death, with everyone else watching and attempting
+to influence the outcome.
 
-This is not a game about revolution, or destabilizing the system. It is about being trapped in an inhumane system, about coming to terms with mortality, about the sacrifices those who survive are forced to make under oppression.
-
-There are three types of characters:
-
-* **Triumphs**, who will be arriving into a world of luxury to be fawned over, pandered to, and ultimately to be sacrificed.
-
-* **Mentors**, who will be supervising them, advising them, and serving as a liaison between them and the politics of the Eternal City.
-
-* **Citizens**, who have been living and enjoying the luxury of the Eternal City. For many of them, the Games are just another pleasant distraction. For others, their fortunes depend on the outcome. Some of the citizens are born to rule and oversee the other zones. The remainder are those who serve them, the designers and stylists and media personalities who have become rich through their service but whose position still depends making their rulers happy.
-
-Our team is in the process of negotiating for a location, but before we sign any paperwork we’re trying to gauge the interest for the game. The larp would be played November, 2020, at an upscale hotel/resort in Croatia with restaurants, a bar, conference facilities, and an on-site spa—freely available to our players—with whirlpools and a sauna. We haven’t fully worked out the budgeting, but we’re trying to keep the cost at the lower end of the 450€-500€ range.
-
-So we can decide whether to place a deposit for the site if you’re interested, and would like to get more information about the game if and when we proceed, please [fill out the form here](https://forms.gle/GiabWeVQcU5wJjqq9) and you’ll be able to opt in to our mailing list. You can also [find us on Facebook](https://www.facebook.com/triumphlarp). If you have any questions, feel free to ask them there or email us at [info@triumphlarp.org](mailto:info@triumphlarp.org).
+Tickets will be going on sale on October 14th. On this site you can find
+information about [the characters](/play/characters) and [the
+setting](/setting/world), take a look at [the location](/practical/location),
+and find information about [how the sign up process will
+work](/practical/signup). If you're interested, please [fill out the form
+here](https://forms.gle/GiabWeVQcU5wJjqq9)  to opt in to our mailing list, and
+you can also [find us on Facebook](https://www.facebook.com/triumphlarp). If
+you have any questions, feel free to ask them there or email us at
+[info@triumphlarp.org](mailto:info@triumphlarp.org).
