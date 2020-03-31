@@ -1,4 +1,4 @@
 <div style="text-align: center">
-	<a href="https://forms.gle/NSJp4qod3iqJsJK19" class="button large">Sign Up Here!</a>
+	<a href="https://forms.gle/Z2ckuPRVDH1tQJ8G6" class="button large">Join the Waitlist!</a>
 </div>
 <br />

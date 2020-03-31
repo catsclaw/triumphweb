@@ -16,6 +16,19 @@ markup:
     renderer:
       unsafe: true
 
+outputFormats:
+  printhtml:
+    baseName: index
+    mediaType: text/html
+    path: print
+    notAlternative: true
+
+outputs:
+  page:
+    - HTML
+  section:
+    - HTML
+
 menu:
   main:
   - name: Home

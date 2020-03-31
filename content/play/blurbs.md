@@ -1,14 +1,19 @@
 ---
-title: Character Blurbs
+title: Triumph Character Blurbs
 date: 2019-03-31
 draft: false
 navSection: play
 weight: 4
 ---
 
-Interactive Table
+Here are all the blurbs for the characters available to play in *Triumph*.
+These are intended as a brief sketch; a fuller character sheet will be
+available closer to the event, with more details about motivations and
+relationships.
 
-Note: You may not wish to read the blurbs for characters with secrets unless
+<!--more-->
+
+*Note:* You may not wish to read the blurbs for characters with secrets unless
 you are considering playing a character of that type. Those marked ‡ have deep
 secrets and, on the whole, are not quite what they seem. Those marked † have
 secrets of a lesser nature.
@@ -16,6 +21,8 @@ secrets of a lesser nature.
 Names of other characters in bold indicate potential romantic relationships,
 if both players consent to play that but please note that other romances are
 possible and, if both players consent, encouraged.
+
+If you prefer, you can download this listing <a href="/play/Triumph Character Blurbs.pdf">as a pdf</a>.
 
 <style>
   .triumph_list { background-color: #f2bc29 !important }
@@ -68,11 +75,11 @@ function sortTable(sortBy) {
 <table id="charlist">
 <tr class="triumph_list">
   <td data-index="01" data-name="kes_gold" data-role="star" data-canton="01">{{< icon "star" >}}{{< icon "bolt" >}}<a href="#kes_gold">Kes Gold</a></td>
-  <td>the beloved heir</td>
+  <td>The beloved heir</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="02" data-name="drew_gold" data-role="star" data-canton="01">{{< icon "star" >}}{{< icon "bolt" >}}<a href="#drew_gold">Drew Gold</a></td>
-  <td>from a poor family</td>
+  <td>Triumph from a poor family</td>
 </tr>
 <tr class="mentor_list">
   <td data-index="03" data-name="kim_gold" data-role="medal" data-canton="01">{{< icon "medal" >}}{{< icon "bolt" >}}<a href="#kim_gold">Kim Gold</a></td>
@@ -83,20 +90,20 @@ function sortTable(sortBy) {
   <td>Triumvir</td>
 </tr>
 <tr class="capital_list">
-  <td data-index="05" data-name="shiloh_gold" data-role="landmark" data-canton="01">{{< icon "landmark" >}}{{< icon "bolt" >}}<a href="#shiloh_gold">Shiloh Gold</a></td>
-  <td>corporate rep</td>
+  <td data-index="05" data-name="Nevin_gold" data-role="landmark" data-canton="01">{{< icon "landmark" >}}{{< icon "bolt" >}}<a href="#Nevin_gold">Nevin Gold</a></td>
+  <td>Corporate rep</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="06" data-name="cullen_weaver" data-role="star" data-canton="02">{{< icon "star" >}}{{< icon "feather" >}}<a href="#cullen_weaver">Cullen Weaver</a></td>
-  <td>an ordinary Weaver in an extraordinary situation</td>
+  <td>An ordinary Weaver in an extraordinary situation</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="07" data-name="baylor_weaver" data-role="star" data-canton="02">{{< icon "star" >}}{{< icon "feather" >}}<a href="#baylor_weaver">Baylor Weaver</a></td>
-  <td>troublemaker</td>
+  <td>Troublemaker</td>
 </tr>
 <tr class="mentor_list">
   <td data-index="08" data-name="memphis_weaver" data-role="medal" data-canton="02">{{< icon "medal" >}}{{< icon "feather" >}}<a href="#memphis_weaver">Memphis Weaver</a></td>
-  <td>weaver of webs</td>
+  <td>Weaver of webs</td>
 </tr>
 <tr class="capital_list">
   <td data-index="09" data-name="jess_weaver" data-role="landmark" data-canton="02">{{< icon "landmark" >}}{{< icon "feather" >}}<a href="#jess_weaver">Jess Weaver</a></td>
@@ -108,15 +115,15 @@ function sortTable(sortBy) {
 </tr>
 <tr class="triumph_list">
   <td data-index="11" data-name="gem_fisher" data-role="star" data-canton="03">{{< icon "star" >}}{{< icon "anchor" >}}<a href="#gem_fisher">Gem Fisher</a></td>
-  <td>the survivor</td>
+  <td>The survivor</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="12" data-name="cass_fisher" data-role="star" data-canton="03">{{< icon "star" >}}{{< icon "anchor" >}}<a href="#cass_fisher">Cass Fisher</a></td>
-  <td>torn from their beloved</td>
+  <td>Torn from their beloved</td>
 </tr>
 <tr class="mentor_list">
   <td data-index="13" data-name="frankie_fisher" data-role="medal" data-canton="03">{{< icon "medal" >}}{{< icon "anchor" >}}<a href="#frankie_fisher">Frankie Fisher</a></td>
-  <td>team worker</td>
+  <td>Team worker</td>
 </tr>
 <tr class="capital_list">
   <td data-index="14" data-name="bowie_fisher" data-role="landmark" data-canton="03">{{< icon "landmark" >}}{{< icon "anchor" >}}<a href="#bowie_fisher">Bowie Fisher</a></td>
@@ -131,15 +138,15 @@ function sortTable(sortBy) {
 </tr>
 <tr class="triumph_list">
   <td data-index="17" data-name="mal_spade" data-role="star" data-canton="04">{{< icon "star" >}}{{< icon "gem" >}}<a href="#mal_spade">Mal Spade</a></td>
-  <td>framed for a heinous crime</td>
+  <td>Framed for a heinous crime</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="18" data-name="lin_spade" data-role="star" data-canton="04">{{< icon "star" >}}{{< icon "gem" >}}<a href="#lin_spade">Lin Spade</a></td>
-  <td>jailed for heretical views</td>
+  <td>Jailed for heretical views</td>
 </tr>
 <tr class="mentor_list">
   <td data-index="19" data-name="everest_spade" data-role="medal" data-canton="04">{{< icon "medal" >}}{{< icon "gem" >}}<a href="#everest_spade">Everest Spade</a></td>
-  <td>top dog</td>
+  <td>Top dog</td>
 </tr>
 <tr class="capital_list">
   <td data-index="20" data-name="yanik_spade" data-role="landmark" data-canton="04">{{< icon "landmark" >}}{{< icon "gem" >}}<a href="#yanik_spade">Yanik Spade</a></td>
@@ -150,15 +157,15 @@ function sortTable(sortBy) {
 </tr>
 <tr class="triumph_list">
   <td data-index="22" data-name="tov_smith" data-role="star" data-canton="05">{{< icon "star" >}}{{< icon "gavel" >}}<a href="#tov_smith">Tov Smith</a></td>
-  <td>naïve and unfortunate</td>
+  <td>Naïve and unfortunate</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="23" data-name="falc_smith" data-role="star" data-canton="05">{{< icon "star" >}}{{< icon "gavel" >}}<a href="#falc_smith">Falc Smith</a></td>
-  <td>rebel without a clue</td>
+  <td>Rebel without a clue</td>
 </tr>
 <tr class="mentor_list">
-  <td data-index="24" data-name="mel_smith" data-role="medal" data-canton="05">{{< icon "medal" >}}{{< icon "gavel" >}}<a href="#mel_smith">Mel Smith</a></td>
-  <td>hard bitten, taciturn</td>
+  <td data-index="24" data-name="brook_smith" data-role="medal" data-canton="05">{{< icon "medal" >}}{{< icon "gavel" >}}<a href="#brook_smith">Brook Smith</a></td>
+  <td>Hard bitten, taciturn</td>
 </tr>
 <tr class="capital_list">
   <td data-index="25" data-name="castor_smith" data-role="landmark" data-canton="05">{{< icon "landmark" >}}{{< icon "gavel" >}}<a href="#castor_smith">Castor Smith</a></td>
@@ -170,15 +177,15 @@ function sortTable(sortBy) {
 </tr>
 <tr class="triumph_list">
   <td data-index="27" data-name="ban_wright" data-role="star" data-canton="06">{{< icon "star" >}}{{< icon "atom" >}}<a href="#ban_wright">Ban Wright</a></td>
-  <td>test pilot</td>
+  <td>Test pilot</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="28" data-name="jules_wright" data-role="star" data-canton="06">{{< icon "star" >}}{{< icon "atom" >}}<a href="#jules_wright">Jules Wright</a></td>
-  <td>resentful youth</td>
+  <td>Resentful youth</td>
 </tr>
 <tr class="mentor_list">
   <td data-index="29" data-name="tobin_wright" data-role="medal" data-canton="06">{{< icon "medal" >}}{{< icon "atom" >}}<a href="#tobin_wright">Tobin Wright</a></td>
-  <td>brains are better than brawn</td>
+  <td>Brains are better than brawn</td>
 </tr>
 <tr class="capital_list">
   <td data-index="30" data-name="goura_wright" data-role="landmark" data-canton="06">{{< icon "landmark" >}}{{< icon "atom" >}}<a href="#goura_wright">Goura Wright</a></td>
@@ -186,19 +193,19 @@ function sortTable(sortBy) {
 </tr>
 <tr class="capital_list">
   <td data-index="31" data-name="munroe_wright" data-role="landmark" data-canton="06">{{< icon "landmark" >}}{{< icon "atom" >}}<a href="#munroe_wright">Munroe Wright</a></td>
-  <td>corporate rep</td>
+  <td>Corporate rep</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="32" data-name="swift_silver" data-role="star" data-canton="07">{{< icon "star" >}}{{< icon "coins" >}}<a href="#swift_silver">Swift Silver</a></td>
-  <td>embezzler, sneak thief</td>
+  <td>Embezzler and a sneak thief</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="33" data-name="blair_silver" data-role="star" data-canton="07">{{< icon "star" >}}{{< icon "coins" >}}<a href="#blair_silver">Blair Silver</a></td>
-  <td>Athlete, team player</td>
+  <td>Athlete and team player</td>
 </tr>
 <tr class="mentor_list">
   <td data-index="34" data-name="silence_silver" data-role="medal" data-canton="07">{{< icon "medal" >}}{{< icon "coins" >}}<a href="#silence_silver">Silence Silver</a></td>
-  <td>wheeler dealer</td>
+  <td>Wheeler dealer</td>
 </tr>
 <tr class="capital_list">
   <td data-index="35" data-name="milan_silver" data-role="landmark" data-canton="07">{{< icon "landmark" >}}{{< icon "coins" >}}<a href="#milan_silver">Milan Silver</a></td>
@@ -206,19 +213,19 @@ function sortTable(sortBy) {
 </tr>
 <tr class="capital_list">
   <td data-index="36" data-name="ellis_silver" data-role="landmark" data-canton="07">{{< icon "landmark" >}}{{< icon "coins" >}}<a href="#ellis_silver">Ellis Silver</a></td>
-  <td>corporate rep</td>
+  <td>Corporate rep</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="37" data-name="red_ward" data-role="star" data-canton="08">{{< icon "star" >}}{{< icon "shield-alt" >}}<a href="#red_ward">Red Ward</a></td>
-  <td>disgraced NCO</td>
+  <td>Disgraced NCO</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="38" data-name="ripley_ward" data-role="star" data-canton="08">{{< icon "star" >}}{{< icon "shield-alt" >}}<a href="#ripley_ward">Ripley Ward</a></td>
-  <td>professional soldier</td>
+  <td>Professional soldier</td>
 </tr>
 <tr class="mentor_list">
   <td data-index="39" data-name="strega_ward" data-role="medal" data-canton="08">{{< icon "medal" >}}{{< icon "shield-alt" >}}<a href="#strega_ward">Strega Ward</a></td>
-  <td>someone wants to kill them</td>
+  <td>Someone with a target on their back</td>
 </tr>
 <tr class="capital_list">
   <td data-index="40" data-name="shiloh_ward" data-role="landmark" data-canton="08">{{< icon "landmark" >}}{{< icon "shield-alt" >}}<a href="#shiloh_ward">Shiloh Ward</a></td>
@@ -230,15 +237,15 @@ function sortTable(sortBy) {
 </tr>
 <tr class="triumph_list">
   <td data-index="42" data-name="jan_bright" data-role="star" data-canton="09">{{< icon "star" >}}{{< icon "sun" >}}<a href="#jan_bright">Jan Bright</a></td>
-  <td>a lover not a fighter</td>
+  <td>A lover, not a fighter</td>
 </tr>
 <tr class="triumph_list">
-  <td data-index="43" data-name="ren_bright" data-role="star" data-canton="09">{{< icon "star" >}}{{< icon "sun" >}}<a href="#ren_bright">Ren Bright</a></td>
-  <td>focussed and determined</td>
+  <td data-index="43" data-name="cal_bright" data-role="star" data-canton="09">{{< icon "star" >}}{{< icon "sun" >}}<a href="#cal_bright">Cal Bright</a></td>
+  <td>Focussed and determined</td>
 </tr>
 <tr class="mentor_list">
   <td data-index="44" data-name="rain_bright" data-role="medal" data-canton="09">{{< icon "medal" >}}{{< icon "sun" >}}<a href="#rain_bright">†Rain Bright</a></td>
-  <td>dying from consequences of past actions</td>
+  <td>Dying from consequences of past actions</td>
 </tr>
 <tr class="capital_list">
   <td data-index="45" data-name="sigil_bright" data-role="landmark" data-canton="09">{{< icon "landmark" >}}{{< icon "sun" >}}<a href="#sigil_bright">‡Sigil Bright</a></td>
@@ -250,15 +257,15 @@ function sortTable(sortBy) {
 </tr>
 <tr class="triumph_list">
   <td data-index="47" data-name="arles_cropper" data-role="star" data-canton="10">{{< icon "star" >}}{{< icon "carrot" >}}<a href="#arles_cropper">Arles Cropper</a></td>
-  <td>a martyr for the family</td>
+  <td>A martyr for the family</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="48" data-name="bel_cropper" data-role="star" data-canton="10">{{< icon "star" >}}{{< icon "carrot" >}}<a href="#bel_cropper">Bel Cropper</a></td>
-  <td>reckless volunteer</td>
+  <td>A reckless volunteer</td>
 </tr>
 <tr class="mentor_list">
   <td data-index="49" data-name="barley_cropper" data-role="medal" data-canton="10">{{< icon "medal" >}}{{< icon "carrot" >}}<a href="#barley_cropper">Barley Cropper</a></td>
-  <td>jaded and lonely but still has hope</td>
+  <td>Jaded and lonely but not without hope</td>
 </tr>
 <tr class="capital_list">
   <td data-index="50" data-name="hemmy_cropper" data-role="landmark" data-canton="10">{{< icon "landmark" >}}{{< icon "carrot" >}}<a href="#hemmy_cropper">Hemmy Cropper</a></td>
@@ -266,7 +273,7 @@ function sortTable(sortBy) {
 </tr>
 <tr class="triumph_list">
   <td data-index="51" data-name="briar_fletcher" data-role="star" data-canton="11">{{< icon "star" >}}{{< icon "leaf" >}}<a href="#briar_fletcher">Briar Fletcher</a></td>
-  <td>the great hunter</td>
+  <td>The great hunter</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="52" data-name="jaz_fletcher" data-role="star" data-canton="11">{{< icon "star" >}}{{< icon "leaf" >}}<a href="#jaz_fletcher">Jaz Fletcher</a></td>
@@ -274,7 +281,7 @@ function sortTable(sortBy) {
 </tr>
 <tr class="mentor_list">
   <td data-index="53" data-name="sam_fletcher" data-role="medal" data-canton="11">{{< icon "medal" >}}{{< icon "leaf" >}}<a href="#sam_fletcher">Sam Fletcher</a></td>
-  <td>killed their lover in the Games</td>
+  <td>Killed their lover in the Games</td>
 </tr>
 <tr class="capital_list">
   <td data-index="54" data-name="september_fletcher" data-role="landmark" data-canton="11">{{< icon "landmark" >}}{{< icon "leaf" >}}<a href="#september_fletcher">September Fletcher</a></td>
@@ -282,7 +289,7 @@ function sortTable(sortBy) {
 </tr>
 <tr class="triumph_list">
   <td data-index="55" data-name="syd_piper" data-role="star" data-canton="12">{{< icon "star" >}}{{< icon "drum" >}}<a href="#syd_piper">Syd Piper</a></td>
-  <td>musical prodigy</td>
+  <td>Musical prodigy</td>
 </tr>
 <tr class="triumph_list">
   <td data-index="56" data-name="cory_piper" data-role="star" data-canton="12">{{< icon "star" >}}{{< icon "drum" >}}<a href="#cory_piper">Cory Piper</a></td>
@@ -290,7 +297,7 @@ function sortTable(sortBy) {
 </tr>
 <tr class="mentor_list">
   <td data-index="57" data-name="gentry_piper" data-role="medal" data-canton="12">{{< icon "medal" >}}{{< icon "drum" >}}<a href="#gentry_piper">‡Gentry Piper</a></td>
-  <td>Who knows your secret?</td>
+  <td>Haunted by their secret</td>
 </tr>
 <tr class="capital_list">
   <td data-index="58" data-name="charleston_piper" data-role="landmark" data-canton="12">{{< icon "landmark" >}}{{< icon "drum" >}}<a href="#charleston_piper">Charleston Piper</a></td>
@@ -306,27 +313,27 @@ function sortTable(sortBy) {
 </tr>
 <tr class="capital_list">
   <td data-index="61" data-name="hamilton_maddox" data-role="landmark" data-canton="13">{{< icon "landmark" >}}{{< icon "chess-king" >}}<a href="#hamilton_maddox">†Hamilton Maddox</a></td>
-  <td>corporate heir</td>
+  <td>Bored corporate heir</td>
 </tr>
 <tr class="capital_list">
   <td data-index="62" data-name="arundel_cambourne" data-role="landmark" data-canton="13">{{< icon "landmark" >}}{{< icon "chess-king" >}}<a href="#arundel_cambourne">†Arundel Cambourne</a></td>
-  <td>corporate heir</td>
+  <td>Shallow socialite</td>
 </tr>
 <tr class="capital_list">
   <td data-index="63" data-name="zephyr_baradras" data-role="landmark" data-canton="13">{{< icon "landmark" >}}{{< icon "chess-king" >}}<a href="#zephyr_baradras">†Zephyr Baradras</a></td>
-  <td>corporate heir</td>
+  <td>Poor little rich kid</td>
 </tr>
 <tr class="capital_list">
   <td data-index="64" data-name="lennox_downwater" data-role="landmark" data-canton="13">{{< icon "landmark" >}}{{< icon "chess-king" >}}<a href="#lennox_downwater">†Lennox Downwater</a></td>
-  <td>corporate heir</td>
+  <td>Corporate heir and adrenaline junkie</td>
 </tr>
 <tr class="capital_list">
   <td data-index="65" data-name="caroly_wendelsmith" data-role="landmark" data-canton="13">{{< icon "landmark" >}}{{< icon "chess-king" >}}<a href="#caroly_wendelsmith">Caroly Wendelsmith</a></td>
-  <td>child of a Triumvir</td>
+  <td>Child of a Triumvir</td>
 </tr>
 <tr class="capital_list">
   <td data-index="66" data-name="porphyry_mendleson" data-role="landmark" data-canton="13">{{< icon "landmark" >}}{{< icon "chess-king" >}}<a href="#porphyry_mendleson">†Porphyry Mendleson</a></td>
-  <td>the richest person in the Eternal City</td>
+  <td>The richest person in the Eternal City</td>
 </tr>
 </table>
 
@@ -482,7 +489,7 @@ situation!
 
 ---
 
-## <a name="shiloh_gold"></a>{{< icon "landmark" >}} Shiloh Gold
+## <a name="Nevin_gold"></a>{{< icon "landmark" >}} Nevin Gold
 
 *Skilled and savvy corporate rep out to impress the boss*
 
@@ -1137,7 +1144,7 @@ anyone you don’t trust.
 
 ---
 
-## <a name="mel_smith"></a>{{< icon "medal" >}} Mentor Mel Smith
+## <a name="brook_smith"></a>{{< icon "medal" >}} Mentor Brook Smith
 
 *Hard bitten former victor. Knows much, speaks little*
 
@@ -1371,7 +1378,7 @@ other mentors to ensure both your Triumphs are on strong teams.
 
 ### What you hope for
 
-Revenge on Mel Smith who killed your lover
+Revenge on Brook Smith who killed your lover
 
 ### How you got here
 
@@ -1388,7 +1395,7 @@ Back when you were living in Canton 6 you formed a close relationship with Lee
 Wright. Lee was brawn to your brain. The committee chose Lee to serve as
 Triumph. You assisted them with their training, and, to this day, you are
 convinced that if all had been run fairly, they would have won. But no, they
-died in the final half hour at the hands of Mel Smith, the current mentor for
+died in the final half hour at the hands of Brook Smith, the current mentor for
 Canton 5. You never really got over it and you are looking for revenge. If you
 get your way, the Triumphs for Vulcan’s Canton will suffer. But you will have
 to be sneaky about it. Not only will your fellow Gamekeepers be on the lookout
@@ -1533,7 +1540,7 @@ financial transactions. As such you have blackmail material on some powerful
 figures. As you always make a bit on the side, you have considerable financial
 resources.
 
-You also know Milan Silver. They are from your Canton so it’s only natural
+You also know **Milan Silver**. They are from your Canton so it’s only natural
 that you hang out together. You know that they are ‘on the make’ and insist on
 a sweetener before anyone gets to see their boss. But that’s fine. That, after
 all, is how business is done, how profits are made.
@@ -1569,7 +1576,7 @@ a future Emperor. Triumvir Smith has a new PA, September Fletcher, who doesn’t
 seem to know what they are doing. You could mentor them, as they seem to want,
 or you could undermine them, which might be more fun.
 
-You are close friends with Silence Silver. You know their secret. Whilst you
+You are close friends with **Silence Silver**. You know their secret. Whilst you
 don’t mind making a bit of cash on the side, you’re reluctant to betray such a
 dear friend.
 
@@ -1833,7 +1840,7 @@ just play guitar.
 
 ---
 
-## <a name="ren_bright"></a>{{< icon "star" >}} Triumph Ren Bright
+## <a name="cal_bright"></a>{{< icon "star" >}} Triumph Cal Bright
 
 *A focussed and determined worker*
 
@@ -2078,7 +2085,7 @@ material. Neither of them has any confidence in their own ability. Maybe you
 can help them to gain some self-respect? Maybe you can find them some
 team-mates? For that you have to make them look like attractive propositions.
 
-Outside the Games you are close to Hemmy Cropper, one of the Gamekeepers.
+Outside the Games you are close to **Hemmy Cropper**, one of the Gamekeepers.
 During the Games, though, you both understand that you have to keep a distance
 from each other. It wouldn’t do for someone to get the idea that your friend
 was unfairly biased towards their home Canton. You would like to get closer to
@@ -2105,7 +2112,7 @@ have done faithfully for the past nine years. You are constantly tempted to
 support the Triumphs from your own Canton but this year the volunteers, whilst
 putting a brave face on things, do not seem to have what it takes to beat the
 semi-professionals from Cantons 1 and 8. Both lack the killer instinct that
-typifies a Victor. You are very close to Barley Cropper, who has to serve as
+typifies a Victor. You are very close to **Barley Cropper**, who has to serve as
 mentor. You worry about them as they have become jaded over time and are only
 a shadow of their former self. During the Games you both understand that you
 have to keep a distance from each other. It wouldn’t do for someone to get the
@@ -2149,7 +2156,7 @@ able to get better treatment for the Dryads. Due to the selection method, your
 Canton tends to send its worse (and even then, you’ve had three Victors). It’s
 time to show the Eternal City what Diana can do when she sends her best!
 
-You know September Fletcher, you were friends at school. You suspect they may
+You know **September Fletcher**, you were friends at school. You suspect they may
 have had a crush on you. You can play on that… They’re close to a Triumvir and
 the Triumvirs are all-powerful.
 
@@ -2272,8 +2279,8 @@ would like to get closer to them and get some good advice.
 
 Although you are proud and honoured to have a chance to serve the Imperium in
 the Eternal City you miss the forests of Canton 11, as well as the friends and
-family you left behind. You were at school with Briar Fletcher (maybe even had
-a bit of a crush on them) and seeing them again is exciting for you — a
+family you left behind. You were at school with **Briar Fletcher** (maybe even
+had a bit of a crush on them) and seeing them again is exciting for you — a
 reminder of home. You know that Sam, the Mentor from your Canton looks out for
 you, but you can get irritated when they are too free with their advice. You
 need to find your own way and they should be mentoring the Triumphs, not you!
@@ -2678,6 +2685,8 @@ younger, more compliant sibling in your place.
 ---
 
 ## <a name="porphyry_mendleson"></a>{{< icon "landmark" >}} Porphyry Mendleson
+
+*The richest person in the Universe*
 
 ### What you hope for
 

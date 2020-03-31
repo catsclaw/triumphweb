@@ -5,6 +5,8 @@ draft: false
 navSection: home
 ---
 
+{{< signupbutton >}}
+
 Triumph is a larp inspired by *The Hunger Games*. 65 players will be arriving
 in The Eternal City. 24 will be Triumphs, to train and be shown off to the
 Imperium. 12 will be their mentors, tasked with guiding them through the
@@ -12,15 +14,16 @@ politics of the capital. The remainder will be Citizens of the capital,
 stylists and media representatives and operators with their own plans and
 agendas.
 
-The larp will be played over three days. The first day will be the arrival of
-the Triumphs at the capital. The second will be training and politicking. The
-final day will be the games themselves—the Triumphs will be taken to an arena
-where they will fight to the death, with everyone else watching and attempting
-to influence the outcome.
+The larp will be played over three days, from Nov 19th to Nov 22nd, 2020. The
+first day will be the arrival of the Triumphs at the capital. The second will
+be training and politicking. The final day will be the games themselves—the
+Triumphs will be taken to an arena where they will fight to the death, with
+everyone else watching and attempting to influence the outcome.
 
 At this point, sign ups are closed. If you'd like to be added to the waitlist
-in case tickets become available, email us at
-[info@triumphlarp.org](mailto:info@triumphlarp.org).
+in case tickets become available, [fill out the
+form](https://forms.gle/Z2ckuPRVDH1tQJ8G6) and we'll contact you if we have a
+spot.
 
 On this site you can find
 information about [the characters](/play/characters) and [the

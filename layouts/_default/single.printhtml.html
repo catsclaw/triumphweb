@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <title>TRIUMPH</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <script src="https://kit.fontawesome.com/315e579489.js" crossorigin="anonymous"></script>
+
+    <style>
+      body {
+        margin: 50px;
+        font-family: ('Merriweather', Georgia, serif);
+      }
+
+      button {
+        display: none;
+      }
+
+      a {
+        text-decoration: black;
+        color: black;
+      }
+
+      @font-face {
+        font-family: 'Title Font';
+        src: url('/static/webfonts/title.woff2') format('woff2'),
+             url('/static/webfonts/title.woff') format('woff');
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      h1 {
+        font-family: 'Title Font';
+        font-size: 1.75em;
+      }
+
+      h2 {
+        font-family: 'Title Font';
+      }
+
+      h3 {
+        font-family: 'Title Font';
+      }
+    </style>
+  </head>
+  <body class="is-preload">
+    <div id="main">
+
+<!-- Post -->
+<section class="post">
+  <header class="major">
+    <h1>{{ .Title }}</h1>
+    {{ if isset .Params "version" }}<p>Version {{ .Params.version }}</p>{{ end }}
+  </header>
+  {{ range first 1 (.Resources.ByType "image") }}
+    <div class="image main">
+      <img src="{{ (.Fit "508x310").RelPermalink }}" alt="">
+    </div>
+  {{ end }}
+
+  {{ .Content }}
+</section>
+
+
+          </div>
+
+  </body>
+</html>
+
