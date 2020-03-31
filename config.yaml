@@ -9,6 +9,13 @@ languages:
 
 MetaDataFormat: yaml
 
+markup:
+  goldmark:
+    extensions:
+      typographer: true
+    renderer:
+      unsafe: true
+
 menu:
   main:
   - name: Home

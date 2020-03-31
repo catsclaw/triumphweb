@@ -6,11 +6,17 @@ navSection: practical
 weight: 2
 ---
 
-{{<signupbutton>}}
+Sign up for *Triumph* has already occurred. If you'd like to join the
+waitlist, please [email us](mailto:info@triumphlarp.org). The following
+information is here for reference.
 
-Sign up for Triumph, running Nov 19th-22nd, 2020 will open on Monday, Oct
-14th, 2019 at noon CEST and remain open for one week, until Monday, Oct 21st,
-at noon CEST. <!--more--> It doesn’t matter when you sign up during that
+ <!--more-->
+
+ <hr>
+
+Sign up for Triumph, running Nov 19th-22nd, 2020 will open on
+Monday, Oct 14th, 2019 at noon CEST and remain open for one week, until
+Monday, Oct 21st, at noon CEST. It doesn’t matter when you sign up during that
 period; if there are more signups than spots, there will be a random lottery
 to determine who gets a spot. By signing up, you are agreeing to purchase a
 ticket, if one is available for you.
@@ -25,7 +31,7 @@ a single full run over two half-full runs; the second run will only occur if
 we feel confident we can fill both of them.
 
 The full cost of a ticket is 470€. You can either pay the full amount by Nov
-1st, or pay in installments. There is a 25€ administration fee for paying in
+8st, or pay in installments. There is a 25€ administration fee for paying in
 installments. The first payment of 100€ is due by Nov 8th, with a second
 payment of 150€ due on Feb 1st and the remainder of 245€ due by Jun 1st.
 Payment will be handled by a money transfer to our banking account. We will
@@ -36,13 +42,6 @@ There is a space for a “Group Name”. If you wish to attend only if someone
 else gets a ticket as well, you can fill this in. In the event of a lottery,
 everyone sharing the same “Group Name” will be selected together. This option
 is only available to you if none of you are trying for a Sponsored Ticket.
-
-There is also a spot on the signup for players that you would like to avoid,
-but whom you do not feel represent a safety concern. This is a place for you
-to indicate players with whom you do not wish to play closely, for whatever
-reason. At your request, we can ensure that you do not share a room or have
-close relations with that person’s character and that, if possible, you will
-be on different runs.
 
 ## Elite Tickets
 
@@ -59,7 +58,7 @@ afford to attend can do so. We have two types of sponsored tickets: local and
 non-local. Local tickets are reserved for Croatian residents, while non-local
 tickets are for everyone else. The cost of a sponsored ticket is 270€. As with
 the regular tickets, you can either pay the full amount immediately by Nov
-1st, or pay in installments with a 25€ administrative fee. The first payment
+8th, or pay in installments with a 25€ administrative fee. The first payment
 of 50€ is due by Nov 8th, with a second payment of 75€ due on Feb 1st and the
 remainder of 170€ due by Jun 1st.
 
@@ -76,6 +75,16 @@ to pay full price, please sign up for a regular ticket. If it would be a
 financial hardship to do so—for whatever reason—you are welcome to try for a
 sponsored ticket instead.
 
+## Single Rooms
+
+All rooms are double occupancy. We will have the capacity for a number of
+single occupancy rooms. There will be an option to choose a single occupancy
+room during sign up; doing so will increase the cost of a ticket by 50€,
+due when your first payment is due.
+
+If we do not have enough space for everyone who is interested to get a single
+occupancy room, they will be randomly allocated.
+
 ## Waitlist Policy
 
 In the event that we have more signups than space available, we will have a
@@ -85,16 +94,12 @@ within a week.
 
 ## Safety Concerns
 
-There is a spot on the signup where you can indicate “red flags”—players for
-whom you have safety concerns and feel they are unsafe for anyone to play
-with, whether due to in-game or out-of-game reasons. You may list any players
-you feel represent a safety issue to have in the game, and if necessary a
-member of our staff will contact you.
+After sign up closes, we will be circulating the names of all those who signed
+up, to give players an opportunity to flag other players who represent safety
+concerns. We will have the list of names available by October 22nd, and you
+will have until October 27th to respond.
 
-All information provided on the signup document will be kept in confidence,
-and will not be shared with anyone not on the organizing team. There will also
-be other opportunities to indicate safety concerns with players in the larp.
-And if you are not signing up, you can always email
+If you are not signing up, you can always email
 [info@triumphlarp.org](mailto:info@triumphlarp.org) with any safety concerns,
 and we will look into them.
 

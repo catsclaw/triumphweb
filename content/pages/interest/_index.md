@@ -5,10 +5,6 @@ draft: false
 navSection: home
 ---
 
-<!-- {{< trailer "dQw4w9WgXcQ" >}} -->
-
-{{< signupbutton >}}
-
 Triumph is a larp inspired by *The Hunger Games*. 65 players will be arriving
 in The Eternal City. 24 will be Triumphs, to train and be shown off to the
 Imperium. 12 will be their mentors, tasked with guiding them through the
@@ -22,7 +18,11 @@ final day will be the games themselves—the Triumphs will be taken to an arena
 where they will fight to the death, with everyone else watching and attempting
 to influence the outcome.
 
-Tickets will be going on sale on October 14th. On this site you can find
+At this point, sign ups are closed. If you'd like to be added to the waitlist
+in case tickets become available, email us at
+[info@triumphlarp.org](mailto:info@triumphlarp.org).
+
+On this site you can find
 information about [the characters](/play/characters) and [the
 setting](/setting/world), take a look at [the location](/practical/location),
 and find information about [how the sign up process will

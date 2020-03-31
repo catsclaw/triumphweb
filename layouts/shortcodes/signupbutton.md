@@ -1,4 +1,4 @@
 <div style="text-align: center">
-	<a href="/practical/signup" class="button large">Signup Opens Oct 14th</a>
+	<a href="https://forms.gle/NSJp4qod3iqJsJK19" class="button large">Sign Up Here!</a>
 </div>
 <br />
