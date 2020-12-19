@@ -45,12 +45,10 @@ handling the communication and social media content of *Triumph*. Apart from
 that, she'll be part of the safety team. So if you have any questions and
 concerns regarding the game, she’s the one to talk to first.
 
-## Marko Zadro
+## Matija Mihoković
 
-Born and raised in Croatia, Marko is a local larper and very active one on
-both the Croatian and international larping scene. He is a part of the Cygnus
-Association collective, an NGO which, among many other things, makes larp
-projects and runs them in the region. Although he’s been larping for 8 years,
-he has 5 years of experience in larp design. As a local, Marko will be
-handling most day-to-day operations on the game, covering necessary logistics
-and making sure the game runs smooth in coordination with the venue staff.
+Born and raised in Croatia, Matija is a local larper and active in both the
+Croatian and international larping scene. He is a founder of Terrible
+Creations, a local larp collective, and as a local will be handling most
+day-to-day operations on the game, covering necessary logistics and making
+sure the game runs smooth in coordination with the venue staff.

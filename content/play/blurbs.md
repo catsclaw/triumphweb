@@ -90,7 +90,7 @@ function sortTable(sortBy) {
   <td>Triumvir</td>
 </tr>
 <tr class="capital_list">
-  <td data-index="05" data-name="Nevin_gold" data-role="landmark" data-canton="01">{{< icon "landmark" >}}{{< icon "bolt" >}}<a href="#Nevin_gold">Nevin Gold</a></td>
+  <td data-index="05" data-name="nevin_gold" data-role="landmark" data-canton="01">{{< icon "landmark" >}}{{< icon "bolt" >}}<a href="#nevin_gold">Nevin Gold</a></td>
   <td>Corporate rep</td>
 </tr>
 <tr class="triumph_list">

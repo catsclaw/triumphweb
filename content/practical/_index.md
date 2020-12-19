@@ -5,9 +5,9 @@ draft: false
 navSection: practical
 ---
 
-**Dates**: Thursday, November 19th to Sunday, November 22nd, 2020 \
+**Dates**: Thursday, November 18th to Sunday, November 21st, 2021 \
 **Location**: [Marija Bistrica, Croatia](location) \
 **Language**: English \
 **Players**: 65 \
 **Cost**: 470€ for a regular ticket, 270€ for a sponsored ticket \
-**Transport**: 45 minute bus from central Zagreb and the airport \
+**Transport**: 45 minute bus from central Zagreb and the airport

@@ -14,7 +14,7 @@ politics of the capital. The remainder will be Citizens of the capital,
 stylists and media representatives and operators with their own plans and
 agendas.
 
-The larp will be played over three days, from Nov 19th to Nov 22nd, 2020. The
+The larp will be played over three days, from Nov 18th to Nov 21st, 2021. The
 first day will be the arrival of the Triumphs at the capital. The second will
 be training and politicking. The final day will be the games themselves—the
 Triumphs will be taken to an arena where they will fight to the death, with
