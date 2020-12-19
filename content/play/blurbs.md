@@ -228,10 +228,6 @@ function sortTable(sortBy) {
   <td>Someone with a target on their back</td>
 </tr>
 <tr class="capital_list">
-  <td data-index="40" data-name="shiloh_ward" data-role="landmark" data-canton="08">{{< icon "landmark" >}}{{< icon "shield-alt" >}}<a href="#shiloh_ward">Shiloh Ward</a></td>
-  <td>Ex Victor</td>
-</tr>
-<tr class="capital_list">
   <td data-index="41" data-name="paris_ward" data-role="landmark" data-canton="08">{{< icon "landmark" >}}{{< icon "shield-alt" >}}<a href="#paris_ward">Paris Ward</a></td>
   <td>Corporate Rep</td>
 </tr>
@@ -1725,41 +1721,6 @@ You have limited material to work with. Red is a lout — dismissed from their
 post for bullying recruits and Ripley, though likeable, is under confident
 though probably not totally inept. Some years are easy. This year you have
 hard work ahead of you if you’re not to let the side down.
-
----
-
-## <a name="shiloh_ward"></a>{{< icon "landmark" >}} Shiloh Ward
-
-*Jealous ex-victor*
-
-### What you hope for
-
-To become official mentor for your Canton
-
-### How you got here
-
-The Media present the rivalry between the Victors of Canton 8 as ‘friendly’
-although in reality it is anything but. Mentor Ward, the one chosen to replace
-Sedro as Mentor for your Canton, is an incompetent idiot. You truly believed
-after Sedro’s assassination you would be chosen. You’d have killed her
-yourself in a flash, but the risk of discovery was just too great. You’re
-certain that others from your Canton know you were involved in the
-assassination, several of them were co-conspirators. But squaddies do not
-betray their own, it’s an unwritten rule. You just have to make sure that
-everyone sticks to that rule and no one else finds out.
-
-You always enjoy the Games but this year you are conflicted. Obviously, you
-support your own Canton — it would be treacherous to even hope that another
-might win. But you also want to show Mentor Strega up for a useless fool and
-be in a position to take their place. Maybe you could get close to the
-Triumphs themselves, undermine their mentor and ensure that they give you
-credit for their success and blame the official mentor for any problems they
-run into.
-
-You believe that Strega Ward has an excellent relationship with the Maddox
-Corporation. You believe that is how they got their position. You are a
-soldier, not someone who sucks up to corporate families, but maybe flattery is
-something you should learn.
 
 ---
 

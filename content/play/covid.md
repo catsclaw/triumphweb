@@ -10,7 +10,7 @@ Owing to COVID-19, the game has been moved to Nov 18th-Nov 21st, 2021 at the
 same location as before. <!--more --> We hope — along with the rest of the
 world — that it will be possible to gather safely at that time.
 
-Obviously, we have no better information that you do as to what the world will
+Obviously, we have no better information than you do as to what the world will
 actually look like. The safety of our players and our organizers is our top
 priority; we will be monitoring all recommended guidelines and following them
 to ensure as safe an event as possible. We are very optimistic that we will be
