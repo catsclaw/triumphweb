@@ -22,7 +22,7 @@ everyone else watching and attempting to influence the outcome.
 
 At this point, sign ups are closed. If you'd like to be added to the waitlist
 in case tickets become available, [fill out the
-form](https://forms.gle/Z2ckuPRVDH1tQJ8G6) and we'll contact you if we have a
+form](https://airtable.com/shrGN23tg93chHQuu) and we'll contact you if we have a
 spot.
 
 On this site you can find
@@ -30,7 +30,7 @@ information about [the characters](/play/characters) and [the
 setting](/setting/world), take a look at [the location](/practical/location),
 and find information about [how the sign up process will
 work](/practical/signup). If you're interested, please [fill out the form
-here](https://forms.gle/GiabWeVQcU5wJjqq9)  to opt in to our mailing list, and
+here](https://airtable.com/shrGN23tg93chHQuu) to opt in to our mailing list, and
 you can also [find us on Facebook](https://www.facebook.com/triumphlarp). If
 you have any questions, feel free to ask them there or email us at
 [info@triumphlarp.org](mailto:info@triumphlarp.org).
