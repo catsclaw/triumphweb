@@ -14,7 +14,7 @@ Obviously, we have no better information than you do as to what the world will
 actually look like. The safety of our players and our organizers is our top
 priority; we will be monitoring all recommended guidelines and following them
 to ensure as safe an event as possible. We are very optimistic that we will be
-able to run the game we envision in 2021, and will keep you informed of any
+able to run the game we envision in 2022, and will keep you informed of any
 changes we need to make, should there be any.
 
 If you have any specific safety concern in relation to COVID-19 or for that
