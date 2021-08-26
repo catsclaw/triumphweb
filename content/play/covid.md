@@ -6,7 +6,7 @@ navSection: play
 weight: 1
 ---
 
-Owing to COVID-19, the game has been moved to Nov 18th-Nov 21st, 2021 at the
+Owing to COVID-19, the game has been moved to Nov 17th-Nov 20th, 2022 at the
 same location as before. <!--more --> We hope — along with the rest of the
 world — that it will be possible to gather safely at that time.
 

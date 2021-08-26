@@ -5,7 +5,7 @@ draft: false
 navSection: practical
 ---
 
-**Dates**: Thursday, November 18th to Sunday, November 21st, 2021 \
+**Dates**: Thursday, November 17th to Sunday, November 20th, 2022 \
 **Location**: [Marija Bistrica, Croatia](location) \
 **Language**: English \
 **Players**: 65 \

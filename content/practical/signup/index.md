@@ -7,7 +7,7 @@ weight: 2
 ---
 
 Sign up for *Triumph* has already occurred, but with COVID-19 the run has been
-moved to Nov 18-21st, 2021. Accordingly, we are anticipating some reshuffling
+moved to Nov 17th-20th, 2022. Accordingly, we are anticipating some reshuffling
 of players to accomodate our new schedule. If you'd like to join the waitlist,
 please [email us](mailto:info@triumphlarp.org). The following information is
 out-of-date, but remains here for reference.

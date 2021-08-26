@@ -7,5 +7,5 @@ faqSection: Basic Information
 weight: 1
 ---
 
-*Triumph* is running from Thursday, November 18th to Sunday, November 21st,
-2021.
+*Triumph* is running from Thursday, November 17th to Sunday, November 20th,
+2022.
