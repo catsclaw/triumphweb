@@ -33,7 +33,7 @@ The scenarios are listed below.
 
 ---
 
-Seven Youths for Seven Maidens
+Seven Youths and Seven Maidens
 ------------------------------
 
 The war is over. The Eternal City won, and the Cantons lost. It was a
