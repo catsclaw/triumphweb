@@ -10,12 +10,12 @@ navSection: home
 Triumph is a larp inspired by *The Hunger Games*. 65 players will be arriving
 in The Eternal City. 24 will be Triumphs, to train and be shown off to the
 Imperium. 12 will be their mentors, tasked with guiding them through the
-politics of the capital. The remainder will be Citizens of the capital,
+politics of the Capital. The remainder will be Citizens of the Capital,
 stylists and media representatives and operators with their own plans and
 agendas.
 
 The larp will be played over three days, from Nov 17th to Nov 20th, 2022. The
-first day will be the arrival of the Triumphs at the capital. The second will
+first day will be the arrival of the Triumphs at the Capital. The second will
 be training and politicking. The final day will be the games themselves—the
 Triumphs will be taken to an arena where they will fight to the death, with
 everyone else watching and attempting to influence the outcome.
