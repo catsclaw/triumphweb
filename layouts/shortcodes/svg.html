@@ -1,0 +1,2 @@
+{{ $svg := $.Page.Resources.GetMatch (.Get 0) }}
+<a href="./{{ .Get 0 }}">{{ safeHTML $svg.Content }}</a>

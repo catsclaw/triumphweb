@@ -1,0 +1,7 @@
+<h2>{{ .Get 0 }}</h2>
+
+{{ $path := printf "%s.png" (lower (.Get 0)) }}
+
+{{ $image := $.Page.Resources.GetMatch $path }}
+{{ $image := $image.Resize "x300" }}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
