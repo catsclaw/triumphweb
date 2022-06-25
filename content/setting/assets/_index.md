@@ -39,10 +39,10 @@ by clicking on it.
 # Canton Icons
 
 These are informal icons used to indicate each Canton. They are infrequently
-used in the Capital, but are very common throughout the Cantons as a kind of
-visual shorthand. Their simple outlines makes them flexible, easy to
-embroider on fabric or stencil on walls, and they have a slight anti-Imperium
-feel about them to most of the powers-that-be.
+used in the Capital, but are very common throughout the Cantons as a visual
+shorthand. Their simple outlines make them flexible, easy to embroider on
+fabric or stencil on walls, and they have a slight anti-Imperium feel about
+them to most of the powers-that-be.
 
 You can download the SVG by clicking on it, and each Canton is labeled
 separately afterwards for reference.
