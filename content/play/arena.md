@@ -1,3 +1,10 @@
+---
+title: The Arena
+date: 2022-07-11
+navSection: play
+weight: 7
+---
+
 Here's our plans for how the combat in the Arena is going to work.
 
 <!--more-->
