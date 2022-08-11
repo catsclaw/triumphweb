@@ -21,11 +21,7 @@ Players who do not abide by these rules will be removed from the game.
 We will have a dedicted Safety Team to support this larp including an external
 member who is not connected to the design team. They will be announced as soon
 as they are in place. Our Safety Team can be contacted before, during and
-after the larp.
-
-While we are in the process of assembling an official team, the organizers can
-be reached at [info@triumphlarp.org](mailto:info@triumphlarp.com) with any
-safety concerns.
+after the larp at [safety@triumphlarp.org](mailto:safety@triumphlarp.org).
 
 ## Safety Workshops
 
