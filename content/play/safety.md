@@ -7,13 +7,12 @@ weight: 1
 version: '1.0'
 ---
 
-The organisers of *Triumph* value the safety of players. We do not tolerate
-any form of discrimination or harassment. This document details the rules we
-expect players to follow during the game. <!--more-->
+The organisers of *Triumph* value the safety of players, and we do not tolerate
+any form of discrimination or harassment. <!--more-->
 
-There will be a mandatory consent and safety briefing before the start of this
-game. Together we are going to look after each other and ensure this game
-happens in as safe a place as possible.
+To this end, There will be a mandatory consent and safety briefing before the 
+start of this game. Together we are going to look after each other and ensure 
+this game happens in as safe a place as possible.
 
 Players who do not abide by these rules will be removed from the game.
 
@@ -40,10 +39,10 @@ tools.
 
 All play in this game is centered around the principles of consent.  This
 means that if you are in doubt, you must always ask and make sure that consent
-is given. It is better to ask and negotiate ten times too often than not. It
-is also important to keep in mind that just because a player may have
-consented to something an hour ago does not mean they have given consent for
-the same thing to happen now. Once again: if in doubt, ask.
+is given. It is better to ask and negotiate ten times too often than not. Consent
+is not ongoing.  If someone gives consent for an action an hour ago, that does not
+mean they have given consent now.  Consent can be withdrawn at any time.  So, once
+again: if in doubt, ask.
 
 ## Safety Techniques
 
@@ -97,7 +96,7 @@ course all those before us who have worked on developing these techniques
 All forms of physical contact require consent. If you want to hug someone,
 ask them first. Give the other person time and space to agree or to say no. 
 Remember no always means no, it is not open to negotiation. The same applies
-if you want to get into a physical fight with another character; Always make
+if you want to get into a physical fight with another character. Always make
 sure that what you propose is OK with the other player. Again, no means no.
 Yes means it is OK to proceed, and at this point you negotiate if need be. 
 Once negotiated and agreed, act it out, make it dramatic, let others witness
@@ -142,7 +141,7 @@ will remove a person from the game if their behaviour is inappropriate.
 
 ## Hotel Rules and Open Water
 
-Please respect hotel rules, they are there for your safety and welfare. 
+Please respect hotel rules; they are there for your safety and welfare. 
 Please be extra careful around open water, and remember that wet surfaces can
 be slippery. We will be providing further guidance on this at our pregame
 safety briefing.
@@ -152,12 +151,26 @@ safety briefing.
 Hotel staff will at times be in the larp area, where they may be serving you
 meals or drinks, or otherwise carrying out their duties. The hotel staff will
 be aware that we are larping, but are not part of the larp. Please treat all
-staff with politeness and respect.
+staff with politeness and respect; they are not NPCs.
+
+## Media Teams
+
+Our media support team will be present. They are providing the video feeds
+(and more!) that we have designed to be an integral part of Triumph. There
+is also a Triumph photographer who will be taking stills. These teams are not
+specifically part of Triumph larp in an in game sense and are not there to be
+interacted with.  These people are helping us run Triumph; please treat them
+with respect.
+
+There may be others with cameras, microphones, or other film equipment who are
+part of the media circus surrounding the Triumph games. These characters should
+have a visible press pass and can be interacted with as part of the larp, and 
+they are fully part of the in game experience.
 
 ## Post Game Debrief
 
 There will be a post game debrief immediately after the conclusion of the
-larp. While attendance is optional and we recognise that everyone has
+larp. While attendance is optional, and we recognise that everyone has
 different post game needs, we do encourage participation.
 
 ## Links
