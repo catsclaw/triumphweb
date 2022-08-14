@@ -4,7 +4,10 @@ date: 2019-09-15
 draft: false
 navSection: play
 weight: 1
-version: '1.0'
+aliases: [
+    '/practical/safety/'
+]
+version: 'Aug 14, 2022'
 ---
 
 The organisers of *Triumph* value the safety of players, and we do not tolerate
