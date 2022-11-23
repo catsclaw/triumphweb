@@ -5,32 +5,27 @@ draft: false
 navSection: home
 ---
 
-{{< signupbutton >}}
+Triumph was a larp inspired by *The Hunger Games*. 65 players arrived in The
+Eternal City. 24 were Triumphs, to train and be shown off to the Imperium. 12
+were their mentors, tasked with guiding them through the politics of the
+Capital. The remainder were Citizens of the Capital, stylists and media
+representatives and operators with their own plans and agendas.
 
-Triumph is a larp inspired by *The Hunger Games*. 65 players will be arriving
-in The Eternal City. 24 will be Triumphs, to train and be shown off to the
-Imperium. 12 will be their mentors, tasked with guiding them through the
-politics of the Capital. The remainder will be Citizens of the Capital,
-stylists and media representatives and operators with their own plans and
-agendas.
+The larp was played over three days, from Nov 17th to Nov 20th, 2022. The
+first day was the arrival of the Triumphs at the Eternal City. The second was
+training and politicking. The final day was the games themselves — the
+Triumphs were taken to an arena where they fought to the death, with everyone
+else watching and attempting to influence the outcome.
 
-The larp will be played over three days, from Nov 17th to Nov 20th, 2022. The
-first day will be the arrival of the Triumphs at the Capital. The second will
-be training and politicking. The final day will be the games themselves—the
-Triumphs will be taken to an arena where they will fight to the death, with
-everyone else watching and attempting to influence the outcome.
+This site remains up as a archive of game policies and materials. There are
+currently no plans for a rerun, although that remains a possibility.
 
-At this point, sign ups are closed. If you'd like to be added to the waitlist
-in case tickets become available, [fill out the
-form](https://airtable.com/shrGN23tg93chHQuu) and we'll contact you if we have a
-spot.
-
-On this site you can find
-information about [the characters](/play/characters) and [the
-setting](/setting/world), take a look at [the location](/practical/location),
-and find information about [how the sign up process will
-work](/practical/signup). If you're interested, please [fill out the form
-here](https://airtable.com/shrGN23tg93chHQuu) to opt in to our mailing list, and
-you can also [find us on Facebook](https://www.facebook.com/triumphlarp). If
-you have any questions, feel free to ask them there or email us at
-[info@triumphlarp.org](mailto:info@triumphlarp.org).
+On this site you can find information about [the characters]
+(/play/characters) and [the setting](/setting/world), take a look at
+[the location](/practical/location), and find information about [how the sign
+up process will work](/practical/signup). If you're interested, please
+[fill out the form here](https://airtable.com/shrGN23tg93chHQuu) to opt in to
+our mailing list, and you can also [find us on Facebook]
+(https://www.facebook.com/triumphlarp). If you have any questions, feel free
+to ask them there or email us at[info@triumphlarp.org]
+(mailto:info@triumphlarp.org).
